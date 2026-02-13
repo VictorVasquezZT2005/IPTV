@@ -1,159 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="VictorZT IPTV">
+<tv generator-info-name="xTeVe" source-info-name="xTeVe - 2.2.0">
 
-  <!-- Agape TV -->
-  <channel id="AgapeTV.sv@SD">
+  <!-- Canales -->
+  <channel id="1000">
     <display-name>Agape TV</display-name>
     <icon src="https://i.imgur.com/DsGmrnc.png"/>
   </channel>
-
-  <!-- Árbol de Vida TV -->
-  <channel id="ArbolDeVidaTV">
+  <channel id="1001">
     <display-name>Árbol de Vida TV</display-name>
+    <icon src=""/>
   </channel>
-
-  <!-- Canal 3 Impresionante -->
-  <channel id="Canal3Impresionante.sv@SD">
+  <channel id="1002">
     <display-name>Canal 3 Impresionante</display-name>
     <icon src="https://i.imgur.com/mdfiWG9.png"/>
   </channel>
-
-  <!-- Canal 10 -->
-  <channel id="Canal10.sv@SD">
+  <channel id="1003">
     <display-name>Canal 10</display-name>
     <icon src="https://i.imgur.com/y2ppMnY.png"/>
   </channel>
-
-  <!-- Canal 11 TuTV -->
-  <channel id="Canal11TuTV.sv@SD">
+  <channel id="1004">
     <display-name>Canal 11 TuTV</display-name>
     <icon src="https://i.imgur.com/itqQEux.png"/>
   </channel>
-
-  <!-- Canal 12 -->
-  <channel id="Canal12.sv@SD">
+  <channel id="1005">
     <display-name>Canal 12</display-name>
     <icon src="https://i.imgur.com/UGDbp3O.png"/>
   </channel>
-
-  <!-- Canal 26 TV IAP -->
-  <channel id="Canal26TVIAP.sv@SD">
+  <channel id="1006">
     <display-name>Canal 26 TV IAP</display-name>
     <icon src="https://i.imgur.com/JE7FsnN.png"/>
   </channel>
-
-  <!-- Canal 65 -->
-  <channel id="Canal65">
+  <channel id="1007">
     <display-name>Canal 65</display-name>
+    <icon src=""/>
   </channel>
-
-  <!-- El Camino TV -->
-  <channel id="ElCaminoTV.sv@SD">
+  <channel id="1008">
     <display-name>El Camino TV</display-name>
     <icon src="https://i.imgur.com/ZSktjGB.png"/>
   </channel>
-
-  <!-- Elim TV -->
-  <channel id="ElimTV">
+  <channel id="1009">
     <display-name>Elim TV</display-name>
+    <icon src=""/>
   </channel>
-
-  <!-- GSG TV -->
-  <channel id="GSGTV.sv@SD">
+  <channel id="1010">
     <display-name>GSG TV</display-name>
     <icon src="https://i.imgur.com/8fZnNu0.png"/>
   </channel>
-
-  <!-- JFV TV -->
-  <channel id="JFVTV.sv@SD">
+  <channel id="1011">
     <display-name>JFV TV</display-name>
     <icon src="https://i.imgur.com/SrmI6nU.jpeg"/>
   </channel>
-
-  <!-- Josué TV -->
-  <channel id="JosueTV.sv@SD">
+  <channel id="1012">
     <display-name>Josué TV</display-name>
     <icon src="https://i.imgur.com/LNWGe1D.jpg"/>
   </channel>
-
-  <!-- Asamblea Legislativa -->
-  <channel id="AsambleaLegislativa">
+  <channel id="1013">
     <display-name>Asamblea Legislativa</display-name>
+    <icon src=""/>
   </channel>
-
-  <!-- Megavisión Canal 19 -->
-  <channel id="MegavisionCanal19.sv@SD">
+  <channel id="1014">
     <display-name>Megavisión Canal 19</display-name>
     <icon src="https://i.imgur.com/voyVP6X.png"/>
   </channel>
-
-  <!-- Megavisión Canal 21 -->
-  <channel id="MegavisionCanal21.sv@SD">
+  <channel id="1015">
     <display-name>Megavisión Canal 21</display-name>
     <icon src="https://i.imgur.com/HbdYU9k.png"/>
   </channel>
-
-  <!-- RTV Canal 57 -->
-  <channel id="RTVCanal57.sv@SD">
+  <channel id="1016">
     <display-name>RTV Canal 57</display-name>
     <icon src="https://i.imgur.com/tnOGWqL.png"/>
   </channel>
-
-  <!-- Sol TV -->
-  <channel id="SolTV">
+  <channel id="1017">
     <display-name>Sol TV</display-name>
+    <icon src=""/>
   </channel>
-
-  <!-- Taber TV -->
-  <channel id="TaberTV.sv@SD">
+  <channel id="1018">
     <display-name>Taber TV</display-name>
     <icon src="https://i.imgur.com/ikq2iSf.png"/>
   </channel>
-
-  <!-- TCS+ -->
-  <channel id="TCSPlus">
+  <channel id="1019">
     <display-name>TCS+</display-name>
+    <icon src=""/>
   </channel>
-
-  <!-- Tigo Sports -->
-  <channel id="TigoSports.sv@SD">
-    <display-name>Tigo Sports El Salvador</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png"/>
+  <channel id="1020">
+    <display-name>Tigo Sports TV El Salvador</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png"/>
   </channel>
-
-  <!-- Tribuna TV -->
-  <channel id="TribunaTV">
+  <channel id="1021">
     <display-name>Tribuna TV</display-name>
+    <icon src=""/>
   </channel>
-
-  <!-- TV CRET -->
-  <channel id="TVCRET.sv@SD">
+  <channel id="1022">
     <display-name>TV CRET</display-name>
     <icon src="https://i.imgur.com/ChonoKb.png"/>
   </channel>
-
-  <!-- TV Getsemaní -->
-  <channel id="TVGetsemani.sv@SD">
+  <channel id="1023">
     <display-name>TV Getsemaní</display-name>
     <icon src="https://i.imgur.com/C9SJCcE.jpg"/>
   </channel>
-
-  <!-- TV León de Judá -->
-  <channel id="TVLeondeJuda.sv@SD">
+  <channel id="1024">
     <display-name>TV León de Judá</display-name>
     <icon src="https://i.imgur.com/ZUCppwi.png"/>
   </channel>
-
-  <!-- TVCa -->
-  <channel id="TVCa.sv@SD">
+  <channel id="1025">
     <display-name>TVCa Televisión Católica Arquidiocesana</display-name>
     <icon src="https://i.imgur.com/uPWWtCA.png"/>
   </channel>
-
-  <!-- TVM El Salvador -->
-  <channel id="TVMElSalvador">
+  <channel id="1026">
     <display-name>TVM El Salvador</display-name>
+    <icon src=""/>
   </channel>
+
+  <!-- Programación de ejemplo -->
+  <!-- Formato: YYYYMMDDHHMMSS +TZ -->
+  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1003">
+    <title lang="es">Noticiero Matutino</title>
+    <desc lang="es">Resumen de noticias locales e internacionales.</desc>
+  </programme>
+  <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1003">
+    <title lang="es">Película Matinal</title>
+    <desc lang="es">Comedia familiar para toda la familia.</desc>
+  </programme>
+
+  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1004">
+    <title lang="es">Mañana Inspiradora</title>
+    <desc lang="es">Programa de motivación y fe.</desc>
+  </programme>
+  <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1004">
+    <title lang="es">Música y Oración</title>
+    <desc lang="es">Canciones y reflexiones religiosas.</desc>
+  </programme>
+
+  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1019">
+    <title lang="es">TCS Noticias</title>
+    <desc lang="es">Últimas noticias del país y el mundo.</desc>
+  </programme>
+  <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1019">
+    <title lang="es">Serie Matutina</title>
+    <desc lang="es">Episodio de serie de entretenimiento.</desc>
+  </programme>
+
+  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1020">
+    <title lang="es">Deportes en Vivo</title>
+    <desc lang="es">Transmisión de fútbol y otros deportes locales.</desc>
+  </programme>
+  <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1020">
+    <title lang="es">Resumen Deportivo</title>
+    <desc lang="es">Análisis y resultados del día.</desc>
+  </programme>
 
 </tv>
