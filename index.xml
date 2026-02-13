@@ -111,41 +111,34 @@
     <icon src=""/>
   </channel>
 
-  <!-- Programación de ejemplo -->
-  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1000">
-    <title lang="es">Mañana Cristiana</title>
-    <desc lang="es">Reflexiones y mensajes de fe.</desc>
-  </programme>
-  <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1000">
-    <title lang="es">Devocional Diario</title>
-    <desc lang="es">Lecturas y enseñanzas bíblicas.</desc>
-  </programme>
-
-  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1003">
-    <title lang="es">Noticiero Matutino</title>
-    <desc lang="es">Resumen de noticias locales e internacionales.</desc>
-  </programme>
-  <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1003">
-    <title lang="es">Película Matinal</title>
+  <!-- Programación de ejemplo con categorías -->
+  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1002">
+    <title lang="es">Película Matutina</title>
     <desc lang="es">Comedia familiar para toda la familia.</desc>
-  </programme>
-
-  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1019">
-    <title lang="es">TCS Noticias</title>
-    <desc lang="es">Últimas noticias del país y el mundo.</desc>
-  </programme>
-  <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1019">
-    <title lang="es">Serie Matutina</title>
-    <desc lang="es">Episodio de serie de entretenimiento.</desc>
+    <category lang="es">movies</category>
   </programme>
 
   <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1020">
-    <title lang="es">Deportes en Vivo</title>
-    <desc lang="es">Transmisión de fútbol y otros deportes locales.</desc>
+    <title lang="es">Fútbol en Vivo</title>
+    <desc lang="es">Transmisión de fútbol local e internacional.</desc>
+    <category lang="es">sport</category>
   </programme>
-  <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1020">
-    <title lang="es">Resumen Deportivo</title>
-    <desc lang="es">Análisis y resultados del día.</desc>
+
+  <!-- Todos los demás canales -->
+  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1000">
+    <title lang="es">Noticias Matutinas</title>
+    <desc lang="es">Resumen de noticias del país y el mundo.</desc>
+    <category lang="es">news</category>
+  </programme>
+  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1001">
+    <title lang="es">Noticias y Reflexión</title>
+    <desc lang="es">Noticias locales y mensajes de inspiración.</desc>
+    <category lang="es">news</category>
+  </programme>
+  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1003">
+    <title lang="es">Noticias Matutinas</title>
+    <desc lang="es">Resumen de noticias locales e internacionales.</desc>
+    <category lang="es">news</category>
   </programme>
 
 </tv>
