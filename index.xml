@@ -112,7 +112,15 @@
   </channel>
 
   <!-- Programación de ejemplo -->
-  <!-- Formato: YYYYMMDDHHMMSS +TZ -->
+  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1000">
+    <title lang="es">Mañana Cristiana</title>
+    <desc lang="es">Reflexiones y mensajes de fe.</desc>
+  </programme>
+  <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1000">
+    <title lang="es">Devocional Diario</title>
+    <desc lang="es">Lecturas y enseñanzas bíblicas.</desc>
+  </programme>
+
   <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1003">
     <title lang="es">Noticiero Matutino</title>
     <desc lang="es">Resumen de noticias locales e internacionales.</desc>
@@ -120,15 +128,6 @@
   <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1003">
     <title lang="es">Película Matinal</title>
     <desc lang="es">Comedia familiar para toda la familia.</desc>
-  </programme>
-
-  <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1004">
-    <title lang="es">Mañana Inspiradora</title>
-    <desc lang="es">Programa de motivación y fe.</desc>
-  </programme>
-  <programme start="20260212090000 +0000" stop="20260212120000 +0000" channel="1004">
-    <title lang="es">Música y Oración</title>
-    <desc lang="es">Canciones y reflexiones religiosas.</desc>
   </programme>
 
   <programme start="20260212060000 +0000" stop="20260212090000 +0000" channel="1019">
