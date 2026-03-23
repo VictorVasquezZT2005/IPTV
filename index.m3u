@@ -53,3 +53,5 @@ https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMElSalvador.sv@SD" tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="News",TVM El Salvador [Not 24/7]
 http://201.247.102.189/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="Sports",ESPN
+https://mze7u.envivoslatam.org/hotflix/espn/index.m3u8?token=58610df7f042958ef48b13bfe1b4ca0445c27454-cf-1774349361-1774295361&ip=190.150.232.240
