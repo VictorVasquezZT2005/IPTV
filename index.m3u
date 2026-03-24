@@ -13,8 +13,6 @@ https://stream.giostreaming.app/canal11/canal11.m3u8
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal26TVIAP.sv@SD" tvg-logo="https://i.imgur.com/JE7FsnN.png" group-title="Religious",Canal 26 TV IAP
 https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
-#EXTINF:-1 tvg-id="Canal65.sv@SD" tvg-logo="https://i.imgur.com/P15QovY.png" group-title="Religious",Canal 65
-https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" tvg-logo="https://i.imgur.com/voyVP6X.png" group-title="General",Megavisión Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="General",Megavisión Canal 21
@@ -23,8 +21,6 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVCanal57.sv@SD" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
-#EXTINF:-1 tvg-id="SolTV.sv@SD" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="General",Sol TV Morazán
-http://rtmp.info:1935/soltv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports",Tigo Sports TV El Salvador
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 1
