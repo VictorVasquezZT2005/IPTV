@@ -3,23 +3,17 @@
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/Canal3.png" group-title="General",Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-logo="https://canal10.gob.sv/assets/images/logo_canal_10.png" group-title="General",Canal 10
+#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/Canal10.png" group-title="General",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tutvcanal11.png" group-title="General",Canal 11 TuTV
+#EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/Canal11.png" group-title="General",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
-#EXTINF:-1 tvg-id="Canal12.sv@SD" tvg-logo="https://canal12.com.sv/wp-content/uploads/2021/04/logo-canal12.png" group-title="General",Canal 12
+#EXTINF:-1 tvg-id="Canal12.sv@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/Canal12.png" group-title="General",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" tvg-logo="https://megavision.com.sv/wp-content/uploads/2023/10/C19.png" group-title="General",Megavisión Canal 19
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/Canal19.png" group-title="General",Megavisión Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-logo="https://megavision.com.sv/wp-content/uploads/2023/10/C21.png" group-title="General",Megavisión Canal 21
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/Canal21.png" group-title="General",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="MegaVisionTV.do@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Megavision_RD_Logo.png" group-title="General",Megavisión TV
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVCanal57.sv@SD" tvg-logo="https://rtvcanal57.com/wp-content/uploads/2022/01/logo-rtv-canal-57.png" group-title="General",RTV Canal 57
-https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
-#EXTINF:-1 tvg-id="Canal26TVIAP.sv@SD" tvg-logo="https://canal26tv.com/images/logo.png" group-title="Religión",Canal 26 TV IAP
-https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://beinsportsxtra.com/images/beIN_Sports_XTRA_Logo.png" group-title="Deportes",beIN Sports XTRA en Español
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/BeinXtra.png" group-title="Deportes",beIN Sports XTRA en Español
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-id="TigoSports.sv@SD" tvg-logo="https://comunidad.tigo.com.sv/t5/image/serverpage/image-id/2403i185481B098495E4A" group-title="Deportes",Tigo Sports TV El Salvador
+#EXTINF:-1 tvg-id="TigoSports.sv@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/TigoS.png" group-title="Deportes",Tigo Sports TV El Salvador
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
