@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="General",Agape TV
+#EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Agape_8_2001.png" group-title="General",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="General",Canal 3 Impresionante
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD" tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-1024x868.png" group-title="General",Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="General",Canal 10
+#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Canal_10_%28El_Salvador%29_2019.svg" group-title="General",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="General",Canal 11 TuTV
+#EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tutvcanal11.png" group-title="General",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv@SD" tvg-logo="https://i.imgur.com/WMv3yEf.png" group-title="General",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
