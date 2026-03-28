@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://drive.usercontent.google.com/download?id=1LMhTCzHfeOASSl-16K-C_ToeBhWsYZUt&export=download&authuser=0" group-title="General",Agape TV
+#EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/Agape.png" group-title="General",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD" tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1.png" group-title="General",Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
