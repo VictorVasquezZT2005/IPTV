@@ -13,6 +13,8 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/Canal21.png" group-title="General",Megavisión Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="CanalesRegionales" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/DistritoComedia.png" group-title="General",Distrito Comedia
+https://regionales.saohgdasregions.fun:9092/MTkwLjE1MC4yMzIuMjQw/75_.m3u8?token=KVvHJU0E6QnjjwtrZ9JWUg&expires=1774937805
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/BeinXtra.png" group-title="Deportes",beIN Sports XTRA en Español
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-id="TigoSports.sv@SD" tvg-logo="https://raw.githubusercontent.com/VictorVasquezZT2005/IPTV/refs/heads/main/Logos/TigoS.png" group-title="Deportes",Tigo Sports TV El Salvador
